@@ -1,0 +1,7 @@
+stud_id,book_id,book_name,date_of_issue,stud_name
+104,126,Cassandra Advanced,2026-02-25,David
+102,124,Cassandra for Beginners,2026-02-22,Bob
+106,128,Cassandra Essentials,2026-02-27,Frank
+101,123,Cassandra 101,2026-02-20,Alice
+105,127,Learning Cassandra,2026-02-26,Eve
+103,125,Advanced Cassandra,2026-02-23,Charlie
